@@ -13,8 +13,7 @@ body {
   */
 
   /*background: color image repet position/size */
-  background: url(./assets/assets/black_dragon__by_xigzon_dhjr9f6-375w-2x.jpg)
-    no-repeat top center/cover;
+  background: url(./assets/assets/bg-mobile_.jpg) no-repeat top center/cover;
 }
 
 body * {
