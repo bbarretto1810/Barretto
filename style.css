@@ -6,7 +6,7 @@
 
 :root {
   --text-color: white;
-  --bg-url: url(./assets/assets/bg-mobile_.jpg);
+  --bg-url: url(./assets/assets/d643aaa7260f74bf21a0d4dc533dfd8e.jpg);
   --stroke-color: rgba(255, 255, 255, 0.5);
   --surface-color: rgba(255, 255, 255, 0.1);
   --surface-color-hover: rgba(255, 255, 255, 0.02);
@@ -16,7 +16,7 @@
 
 .light {
   --text-color: black;
-  --bg-url: url(./assets/assets/bg-mobile-light.jpg);
+  --bg-url: url(./assets/assets/c0bfa3e262e514372061b59bd0e5f8d1.jpg);
   --stroke-color: rgba(0, 0, 0, 0.5);
   --surface-color: rgba(0, 0, 0, 0.1);
   --surface-color-hover: rgba(0, 0, 0, 0.02);
@@ -170,13 +170,13 @@ footer {
 }
 
 /* media queries */
-@media (min-widht: 700px) {
+@media (min-width: 700px) {
   :root {
-    --bg-url: url(./assets/assets/bg-desktop.jpg);
+    --bg-url: url(./assets/assets/estilo-escuro-da-floresta-de-aokigahara.jpg);
   }
 
   .light {
-    --bg-url: url(./assets/assets/bg-desktop-light.jpg);
+    --bg-url: url(./assets/assets/ceu-vibrante-natureza-beleza-cena-tranquila-por-do-sol-sobre-o-horizonte-gerado-pela-inteligencia-artificial_24640-131153.jpg);
   }
 }
 
